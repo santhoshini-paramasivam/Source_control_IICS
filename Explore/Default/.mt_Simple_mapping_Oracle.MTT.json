@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8409hp4qTKylttUf5Fqwgz",
+    "id" : "3VM3rzeU0AphtvtVRblSaN",
     "name" : "mt_Simple_mapping_Oracle",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CJ8C0Z000000000002"
+        "repoHandle" : "01CJ8C0Z000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -80,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "test RKR",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

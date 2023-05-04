@@ -75,10 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "01CJ8C17000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "test RKR",
         "contentType" : "JSON",
